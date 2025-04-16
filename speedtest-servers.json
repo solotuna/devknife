@@ -8,7 +8,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Clouvider",
-    "sponsorURL": "https://www.clouvider.co.uk"
+    "sponsorURL": "https://www.clouvider.co.uk",
+    "country": "NL"
   },
   {
     "name": "Amsterdam, Netherlands (Sharktech)",
@@ -19,7 +20,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Sharktech",
-    "sponsorURL": "https://sharktech.net"
+    "sponsorURL": "https://sharktech.net",
+    "country": "NL"
   },
   {
     "name": "Atlanta, United States (Clouvider)",
@@ -30,7 +32,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Clouvider",
-    "sponsorURL": "https://www.clouvider.co.uk"
+    "sponsorURL": "https://www.clouvider.co.uk",
+    "country": "US"
   },
   {
     "name": "Chicago, USA (Sharktech)",
@@ -41,7 +44,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Sharktech",
-    "sponsorURL": "https://sharktech.net"
+    "sponsorURL": "https://sharktech.net",
+    "country": "US"
   },
   {
     "name": "Denver, USA (Sharktech)",
@@ -52,7 +56,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Sharktech",
-    "sponsorURL": "https://sharktech.net"
+    "sponsorURL": "https://sharktech.net",
+    "country": "US"
   },
   {
     "name": "Frankfurt, Germany (Clouvider)",
@@ -63,7 +68,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Clouvider",
-    "sponsorURL": "https://www.clouvider.co.uk"
+    "sponsorURL": "https://www.clouvider.co.uk",
+    "country": "DE"
   },
   {
     "name": "Helsinki, Finland (3) (Hetzner)",
@@ -74,7 +80,8 @@
     "pingURL": "backend437/empty.php",
     "getIpURL": "backend437/getIP.php",
     "sponsorName": "Daily Health Insurance Group",
-    "sponsorURL": "https://dhig.net"
+    "sponsorURL": "https://dhig.net",
+    "country": "FI"
   },
   {
     "name": "Las Vegas, USA (Sharktech)",
@@ -85,7 +92,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Sharktech",
-    "sponsorURL": "https://sharktech.net"
+    "sponsorURL": "https://sharktech.net",
+    "country": "US"
   },
   {
     "name": "London, England (Clouvider)",
@@ -96,7 +104,8 @@
     "pingURL": "empty.php",
     "getIpURL": "getIP.php",
     "sponsorName": "Clouvider",
-    "sponsorURL": "https://www.clouvider.co.uk"
+    "sponsorURL": "https://www.clouvider.co.uk",
+    "country": "GB"
   },
   {
     "name": "Los Angeles, United States (1) (Clouvider)",
@@ -107,7 +116,8 @@
     "pingURL": "empty.php",
     "getIpURL": "getIP.php",
     "sponsorName": "Clouvider",
-    "sponsorURL": "https://www.clouvider.co.uk"
+    "sponsorURL": "https://www.clouvider.co.uk",
+    "country": "US"
   },
   {
     "name": "Los Angeles, USA (Sharktech)",
@@ -118,7 +128,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Sharktech",
-    "sponsorURL": "https://sharktech.net"
+    "sponsorURL": "https://sharktech.net",
+    "country": "US"
   },
   {
     "name": "New York, United States (2) (Clouvider)",
@@ -129,7 +140,8 @@
     "pingURL": "empty.php",
     "getIpURL": "getIP.php",
     "sponsorName": "Clouvider",
-    "sponsorURL": "https://www.clouvider.co.uk"
+    "sponsorURL": "https://www.clouvider.co.uk",
+    "country": "US"
   },
   {
     "name": "Nuremberg, Germany (3) (Hetzner)",
@@ -140,7 +152,8 @@
     "pingURL": "empty.php",
     "getIpURL": "getIP.php",
     "sponsorName": "LibreSpeed",
-    "sponsorURL": "https://librespeed.org"
+    "sponsorURL": "https://librespeed.org",
+    "country": "DE"
   },
   {
     "name": "Nuremberg, Germany (4) (Hetzner)",
@@ -151,7 +164,8 @@
     "pingURL": "empty.php",
     "getIpURL": "getIP.php",
     "sponsorName": "LibreSpeed",
-    "sponsorURL": "https://librespeed.org"
+    "sponsorURL": "https://librespeed.org",
+    "country": "DE"
   },
   {
     "name": "Poznan, Poland (INEA)",
@@ -162,7 +176,8 @@
     "pingURL": "empty.php",
     "getIpURL": "getIP.php",
     "sponsorName": "Kamil Szczepa\u0144ski",
-    "sponsorURL": "https://kamilszczepanski.com"
+    "sponsorURL": "https://kamilszczepanski.com",
+    "country": "PL"
   },
   {
     "name": "Prague, Czech Republic (CESNET)",
@@ -173,7 +188,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "CESNET",
-    "sponsorURL": "https://www.cesnet.cz"
+    "sponsorURL": "https://www.cesnet.cz",
+    "country": "CZ"
   },
   {
     "name": "Prague, Czech Republic (Turris)",
@@ -184,7 +200,8 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "Turris",
-    "sponsorURL": "https://www.turris.com"
+    "sponsorURL": "https://www.turris.com",
+    "country": "CZ"
   },
   {
     "name": "Roma, Italy (GARR)",
@@ -195,7 +212,8 @@
     "pingURL": "empty.php",
     "getIpURL": "getIP.php",
     "sponsorName": "Consortium GARR",
-    "sponsorURL": "https://garr.it"
+    "sponsorURL": "https://garr.it",
+    "country": "IT"
   },
   {
     "name": "Serbia (SOX)",
@@ -206,7 +224,8 @@
     "pingURL": "libre/backend/empty.php",
     "getIpURL": "libre/backend/getIP.php",
     "sponsorName": "Serbian Open eXchange (SOX)",
-    "sponsorURL": "https://sox.rs"
+    "sponsorURL": "https://sox.rs",
+    "country": "RS"
   },
   {
     "name": "Tokyo, Japan (A573)",
@@ -217,6 +236,7 @@
     "pingURL": "backend/empty.php",
     "getIpURL": "backend/getIP.php",
     "sponsorName": "A573",
-    "sponsorURL": "https://mirror.a573.net"
+    "sponsorURL": "https://mirror.a573.net",
+    "country": "JP"
   }
 ]
